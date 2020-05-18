@@ -1,7 +1,4 @@
 NAME = libft.a
-HEADER = includes
-SRC = 
-OBJ = $(SRC:.c=.o)
 CFILES = ft_*.c
 OFILES = ft_*.o
 $(NAME):
